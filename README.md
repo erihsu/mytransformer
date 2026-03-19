@@ -1,4 +1,4 @@
-# The Generic representation of Transformer(LLM) in Rust
+# The generic representation of Transformer(LLM) in Rust
 
 Zero external dependencies to represent transformer using rust generic. By this way, the transformer structure size(except self-defined hidden layer) can be evaluated at static compiled phase, which help guide design AI model.
 
