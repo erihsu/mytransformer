@@ -5,3 +5,8 @@ Zero external dependencies to represent transformer using rust generic. By this 
 # Limitation
 1. It's a personal project to learn transformer structure, not purposed for commercial usage and no further planning for the project.
 2. It's inspired from another rust implementated transformer [project](https://github.com/goldstraw/rust_transformer.git)
+
+# LICENSE
+Licensed under MIT:
+ * MIT license ([LICENSE-MIT](LICENSE-MIT) or
+   https://opensource.org/licenses/MIT)
